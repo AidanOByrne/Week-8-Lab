@@ -1,3 +1,5 @@
+https://github.com/AidanOByrne/Week-8-Lab
+Enjoy
 Excercise 1
 types.js
 var myString = "aidan";
