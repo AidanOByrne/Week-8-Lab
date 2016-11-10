@@ -69,3 +69,7 @@ console.log(age);
 console.log(hasPet);
 
 Excercise 9
+changeVariables
+var morningAlarm='6:30AM';
+morningAlarm='12:00AM';
+console.log('Morning alarm is set to: ', morningAlarm);
